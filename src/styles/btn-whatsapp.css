@@ -1,8 +1,4 @@
 /**
- *
- * @author      Jeison Sánchez <jeison@nigma.co>
- * @website     https://www.nigma.co
- *
  */
 
 .btn-whatsapp {
@@ -21,7 +17,7 @@
 	width: 45px;
 	height: 45px;
 	border-radius: 50%;
-	background-color: #00e676;
+	background-color: #c0c0c0;
 	opacity: 0;
 	animation: onda 1.7s infinite;
 }
